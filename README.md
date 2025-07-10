@@ -5,7 +5,7 @@
 
 2. Unzip this folder in C:\cp (create cp folder)
 
-3. Double-click on `run_decay.bat`
+3. Double-click on `simulation runner.bat`
 
 4. Wait for the simulation to complete.
    - It sleeps for 10 seconds so you can open VisualVM if needed.
