@@ -1,5 +1,3 @@
-# Concurrent-programming-project
-
 # Decay Simulation - How to Run
 
 1. Install Docker Desktop: https://www.docker.com/products/docker-desktop/
